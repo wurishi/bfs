@@ -1,1 +1,1 @@
-# bfs
+[link](./note.md)
